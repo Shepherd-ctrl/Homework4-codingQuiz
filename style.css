@@ -1,0 +1,23 @@
+body{
+	background-image: url(https://motionarray.imgix.net/preview-77718-ppTYmuHDQx_0003.jpg);
+	text-align: center;
+}
+
+.text-muted{
+    color: white;
+    font-size: 50px;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+#start{
+    color: black; 
+}
+
+.row{
+    color: green;
+}
